@@ -785,7 +785,7 @@
 
 # sent_id = 490
 # text = Dúrt leis pé duine do raghadh á múscailt nách me féin é; nár bhe' liom a bhfeaca inné dhóibh, agus gan do bheith ag caitheamh an lae inniu ar an gcuma chéanna, agus go ndéanfaidís féin múscailt an uair ba mhaith leo féin é.
-1	Dúrt	abair	VERB	VTI	Mood=Ind|Tense=Past	0	root	_	_
+1	Dúrt	abair	VERB	VTI	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
 2	leis	le	ADP	Prep	Gender=Masc|Number=Sing|Person=3	1	obl:prep	_	_
 3	pé	pé	PRON	Idf	PronType=Ind	1	obj	_	_
 4	duine	duine	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
@@ -803,7 +803,7 @@
 16	'	'	PUNCT	Punct	_	17	punct	_	_
 17	liom	le	ADP	Prep	Number=Sing|Person=1	15	obl:prep	_	_
 18	a	a	PRON	_	PronType=Rel	15	nsubj	_	_
-19	bhfeaca	feic	VERB	VTI	Form=Ecl|Mood=Sub|Tense=Pres	18	acl:relcl	_	_
+19	bhfeaca	feic	VERB	VTI	Form=Ecl|Mood=Sub|Number=Sing|Person=1|Tense=Pres	18	acl:relcl	_	_
 20	inné	inné	ADV	Temp	_	19	advmod	_	_
 21	dhóibh	do	ADP	Prep	Form=Len|Number=Plur|Person=3	19	obl:prep	_	SpaceAfter=No
 22	,	,	PUNCT	Punct	_	26	punct	_	_
